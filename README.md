@@ -18,6 +18,12 @@
 
 - [x] Você quer colocar seu projeto na nuvem
 
+- [x] Você vai pegar um projeto já iniciado, para trabalhar com o time
+- [x] Você precisa resolver um conflito
+- [x] Antes de enviar a resolução, precisamos atualizar o projeto local
+
+- [x] Você precisa voltar um arquivo para um determinado momento da linha do tempo
+
 &nbsp;
 
 ## Comandos
@@ -42,5 +48,23 @@
 
 - `git show`     
     - Apresenta determinado ponto na história
+
+- `git branch`     
+    - Gerencia novas linhas do tempo
+
+- `git checkout`     
+    - Manipula as linhas do tempo
+
+- `git merge`     
+    - Unir as linhas do tempo
+
+- `git push`     
+    - Envia as alterações locais para o repositório remoto
+
+- `git clone`     
+    - Clonar um repositório ou projeto da nuvem
+
+- `git pull`     
+    - Puxa o repositório remoto
 
 
